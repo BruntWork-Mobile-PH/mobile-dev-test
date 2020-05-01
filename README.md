@@ -3,9 +3,9 @@ Thank you for taking the time to complete our Full Stack Dev Test. The test is s
 - You will have **one week** to submit the test and you can spend as much time as you would like
 - You do **not** need to provide a finished production-ready app, we are more interested in seeing how you tackle the tasks with critical thinking and how you demonstrate problem-solving through the use of technical solutions
 - You will also be graded on the following criteria:
--- Ability to reproduce the design provided with consideration of web performance
--- Ability to implement implied functionality by interpreting the designs provided
--- Clean code structure and maintainability of code
+  - Ability to reproduce the design provided with consideration of web performance
+  - Ability to implement implied functionality by interpreting the designs provided
+  - Clean code structure and maintainability of code
 
 ## Task
  The primary task is to build a proof-of-concept shopping cart, wherby a user can add products to their cart and process the order through a checkout form
