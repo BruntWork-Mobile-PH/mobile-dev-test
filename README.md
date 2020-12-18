@@ -1,9 +1,9 @@
-# WB Full Stack Dev Test
-Thank you for taking the time to complete our Full Stack Dev Test. The test is setup to demonstrate your capabilities as a full stack developer, incoporating a mix of frontend and backend tasks.
+# BruntWork Mobile Dev Test
+Thank you for taking the time to complete our Mobile Dev Test. The test is setup to demonstrate your capabilities as a Mobile developer.
 - You will have **one week** to submit the test and you can spend as much time as you would like
 - You do **not** need to provide a finished production-ready app, we are more interested in seeing how you tackle the tasks with critical thinking and how you demonstrate problem-solving through the use of technical solutions
 - You will also be graded on the following criteria:
-  - Ability to reproduce the design provided with consideration of web performance
+  - Ability to reproduce the design provided with consideration of performance
   - Ability to implement implied functionality by interpreting the designs provided
   - Clean code structure and maintainability of code
 
@@ -16,14 +16,18 @@ Thank you for taking the time to complete our Full Stack Dev Test. The test is s
   - Upon checkout, the order data should be saved locally to a `.json` file labelled with the  unique order ID e.g `order_2948281.json`
 
 ## Design
-* We have provided the design in both `.xd` and `.sketch` formats, the two primary applications used by Windsorborn to build UI designs
+* We have provided the design in both `.xd` and `.sketch` formats.
 * We have also provided PNG screens to use for reference
 * The design is mobile-first and thus should be optimised for current mobile devices
 
 ## Implementation
-* You can use any tech stack you wish
+* For **Android Developers**, you are only required to make an Android App using either Java or Kotlin, preferably Kotlin.
+* For **iOS Developers**, you are only required to make an iOS App using Swift.
+* You can challenge yourself and impress us by making both.
 * You can use any framework or libraries you are comfortable with to achieve the required tasks
 
+
 ## Submissions
-* Your submission should be a `.zip` file labeled `{{your_name}}.zip` containing your source files
-* The `.zip` file should contain a `README` describing how to compile/run your test
+* Once done, upload your work to Github and share with us the link. This more preferable since we would also like to see your Git skills.
+* Alternatively, you can compress your work to a `.zip` file labeled `{{your_name}}.zip` containing your source files
+* Which ever you choose, it should contain a `README` describing how to compile/run your test
